@@ -20,5 +20,10 @@
   "scripts": {
     "dev": "rollup -c -w",
     "prod": "rollup -c"
+  },
+  "dependencies": {
+    "firebase": "^7.15.1",
+    "rxfire": "^3.13.1",
+    "rxjs": "^6.5.5"
   }
 }
